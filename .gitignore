@@ -261,5 +261,4 @@ __pycache__/
 *.pyc
 setup/SIFLess/
 *.sitecore
-.env
 Synthesis.Model.cs
